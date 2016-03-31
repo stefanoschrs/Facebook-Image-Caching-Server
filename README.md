@@ -15,7 +15,7 @@ Installation (recommended)
 Usage
 -
 * Start the server `python app.py`
-* Visit `/image/<page_id>`
+* Visit `/images/<page_id>`
 
 Releases
 -
