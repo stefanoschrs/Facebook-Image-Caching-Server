@@ -1,6 +1,8 @@
 venv
 
-images
-!images/.gitkeep
+static/images
+!static/images/.gitkeep
+
+log
 
 access_token.txt
