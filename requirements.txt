@@ -10,7 +10,7 @@ Scrapy==1.0.5
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 Unidecode==0.04.19
-Werkzeug==0.11.3
+Werkzeug==0.15.3
 apt-xapian-index==0.45
 argparse==1.2.1
 bandcamp-downloader==0.0.3
